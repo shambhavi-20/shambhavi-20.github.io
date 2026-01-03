@@ -1,7 +1,7 @@
 source:      .
 destination: ./_site
 includes:    ./_includes
-url: https://mittalshravika.github.io
+url: https://shambhavi-20.github.io/
 
 collections:
   projects:
