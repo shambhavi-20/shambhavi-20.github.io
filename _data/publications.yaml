@@ -1,98 +1,5 @@
 papers:
 
-  # - title: "Engaging Politically Diverse Audiences on Social Media"
-  #   authors: "<b>Martin Saveski</b>, Doug Beeferman, David McClure, Deb Roy"
-  #   venue: "ICWSM'22: International AAAI Conference on Web and Social Media. 2022."
-  #   paper_pdf: "/assets/publications/2022_newsbridge/paper.pdf"
-  #   selected: y
-
-  # - title: "Perspective-taking to Reduce Affective Polarization on Social Media"
-  #   authors: "<b>Martin Saveski<sup>‡</sup></b>, Nabeel Gillani<sup>‡</sup>, Ann Yuan, Prashanth Vijayaraghavan, Deb Roy"
-  #   venue: "ICWSM'22: International AAAI Conference on Web and Social Media. 2022."
-  #   paper_pdf: "/assets/publications/2022_flipfeed/paper.pdf"
-  #   code: "https://github.com/msaveski/twitter_perspective_taking"
-  #   data: "https://github.com/msaveski/twitter_perspective_taking"
-  #   selected: y
-
-  # - title: "The Structure of Toxic Conversations on Twitter"
-  #   authors: "<b>Martin Saveski</b>, Brandon Roy, Deb Roy"
-  #   venue: "WWW'21: The Web Conference 2021"
-  #   paper_pdf: "/assets/publications/2021_dtox/paper.pdf"
-  #   code: "https://github.com/msaveski/toxic_conversation_structure"
-  #   data: "https://doi.org/10.7910/DVN/TRWPVB"
-  #   video: "https://www.youtube.com/watch?v=JLkUgxH92pE"
-  #   selected: y
-
-  # - title: "Social Catalysts: Characterizing People Who Spark Conversations Among Others"
-  #   authors: "<b>Martin Saveski</b>, Farshad Kooti, Sylvia Morelli Vitousek, Carlos Diuk, Bryce Bartlett, Lada Adamic"
-  #   venue: "CSCW'21: Conference on Computer-Supported Cooperative Work and Social Computing"
-  #   paper_pdf: "/assets/publications/2021_social_catalysts/paper.pdf"
-  #   code: "https://github.com/facebookresearch/social-catalysts"
-  #   selected: y
-
-  # - title: "Balanced Influence Maximization in the Presence of Homophily"
-  #   authors: "Md Sanzeed Anwar, <b>Martin Saveski</b>, Deb Roy"
-  #   venue: "WSDM'21: International Conference on Web Search and Data Mining"
-  #   paper_pdf: "/assets/publications/2021_balanced_inf_max/paper.pdf"
-  #   code: "https://github.com/sanzeed/balanced_influence_maximization"
-  #   data: "https://github.com/sanzeed/balanced_influence_maximization"
-  #   selected: y
-
-  # - title: "Algorithmic and Human Prediction of Success in Human Collaboration From Visual Features"
-  #   authors: "<b>Martin Saveski<sup>‡</sup></b>, Edmond Awad<sup>‡</sup>, Iyad Rahwan, Manuel Cebrian"
-  #   venue: "Nature Scientific Reports. 2021"
-  #   paper_pdf: "/assets/publications/2021_esc_the_room/paper.pdf"
-  #   code: "https://doi.org/10.7910/DVN/HDT2RN"
-  #   data: "https://doi.org/10.7910/DVN/HDT2RN"
-  #   selected: n
-
-  # - title: "Testing for Arbitrary Interference on Experimentation Platforms"
-  #   authors: "Jean Pouget-Abadie, Guillaume Saint-Jacques<sup>‡</sup>, <b>Martin Saveski<sup>‡</sup></b>, Weitao Duan, Souvik Ghosh, Ya Xu, Edo Airoldi"
-  #   venue: "Biometrika. 2019."
-  #   paper_pdf: "/assets/publications/2019_biometrika/paper.pdf"
-  #   selected: y
-
-  # - title: "Observational Causal Inference Using Network Information"
-  #   authors: "Yan Leng, <b>Martin Saveski</b>, Alex ‘Sandy’ Pentland, Dean Eckles"
-  #   venue: "NeurIPS'19, Workshop on Graph Representation Learning. 2019."
-  #   selected: n
-
-  # - title: "Me, My Echo Chamber, and I: Introspection on Social Media Polarization"
-  #   authors: "Nabeel Gillani, Ann Yuan, <b>Martin Saveski</b>, Soroush Vosoughi, Deb Roy"
-  #   venue: "WWW'18: International Conference on the World Wide Web. 2018. <b>(Honarable mention)</b>"
-  #   paper_pdf: "/assets/publications/2018_social_mirror/paper.pdf"
-  #   video: "https://drive.google.com/file/d/0B9-P1m1JkZA7UTRuMUFWcTNueXM/view"
-  #   selected: y
-
-  # - title: "Detecting Network Effects: Randomizing Over Randomized Experiments"
-  #   authors: "<b>Martin Saveski<sup>‡</sup></b>, Jean Pouget-Abadie<sup>‡</sup>, Guillaume Saint-Jacques, Weitao Duan, Souvik Ghosh, Ya Xu, Edo Airoldi"
-  #   venue: "KDD'17: International Conference on Knowledge Discovery and Data Mining. 2017. (Research Track)"
-  #   paper_pdf: "/assets/publications/2017_detecting_network_effects/paper.pdf"
-  #   slides: "/assets/publications/2017_detecting_network_effects/slides.pdf"
-  #   video: "https://www.youtube.com/watch?v=1v5_CzdRVAc"
-  #   selected: y
-
-  # - title: "Human Atlas: A Tool for Mapping Social Networks"
-  #   authors: "<b>Martin Saveski</b>, Eric Chu, Soroush Vosoughi, Deb Roy"
-  #   venue: "WWW'16: International Conference on the World Wide Web. 2016. (Demo)"
-  #   paper_pdf: "/assets/publications/2016_human_atlas/paper.pdf"
-  #   video: "https://www.youtube.com/watch?v=OQOUHkJdA-U"
-  #   selected: n
-
-  # - title: "Topic Modeling in Twitter: Aggregating Tweets by Conversations"
-  #   authors: "David Alvarez-Melis<sup>‡</sup>, <b>Martin Saveski<sup>‡</sup></b>"
-  #   venue: "ICWSM'16: International AAAI Conference on Web and Social Media. 2016. (Short Paper)"
-  #   paper_pdf: "/assets/publications/2016_twitter_topic_modeling/paper.pdf"
-  #   poster: "/assets/publications/2016_twitter_topic_modeling/poster.pdf"
-  #   selected: n
-
-  # - title: "Tracking the Yak: An Empirical Study of Yik Yak"
-  #   authors: "<b>Martin Saveski</b>, Sophie Chou, Deb Roy."
-  #   venue: "ICWSM'16: International AAAI Conference on Web and Social Media. 2016. (Short Paper)"
-  #   paper_pdf: "/assets/publications/2016_yikyak/paper.pdf"
-  #   poster: "/assets/publications/2016_yikyak/poster.pdf"
-  #   selected: n
-
   # - title: "One-Pass Ranking Models for Low-Latency Product Recommendations"
   #   authors: "Antonino Freno, <b>Martin Saveski</b>, Rodolphe Jenatton, Cédric Archambeau"
   #   venue: "KDD'15: International Conference on Knowledge Discovery and Data Mining. 2015. (Industry Track)"
@@ -140,38 +47,38 @@ papers:
   #   paper_pdf: "/assets/publications/2010_machine_readable_dictionaries/paper.pdf"
   #   selected: n
 
-  - title: "Exposure to Content Written by Large Language Models Can Reduce Stigma Around Opioid Use Disorder"
-    authors: "<b>Shravika Mittal</b>, Darshi Shah, Shin Won Do, Mai ElSherief, Tanushree Mitra, Munmun De Choudhury"
-    venue: "Nature Partner Journal (npj) Artificial Intelligence. 2025."
-    paper_pdf: "https://arxiv.org/abs/2504.10501"
-    selected: y
+  # - title: "Exposure to Content Written by Large Language Models Can Reduce Stigma Around Opioid Use Disorder"
+  #   authors: "<b>Shravika Mittal</b>, Darshi Shah, Shin Won Do, Mai ElSherief, Tanushree Mitra, Munmun De Choudhury"
+  #   venue: "Nature Partner Journal (npj) Artificial Intelligence. 2025."
+  #   paper_pdf: "https://arxiv.org/abs/2504.10501"
+  #   selected: y
 
-  - title: "Online Myths on Opioid Use Disorder: A Comparison of Reddit and Large Language Model"
-    authors: "<b>Shravika Mittal</b>, Hayoung Jung, Mai ElSherief, Tanushree Mitra, Munmun De Choudhury"
-    venue: "Proceedings of the International AAAI Conference on Web and Social Media (ICWSM). 2025."
-    paper_pdf: "/assets/publications/2025_oud_myths/paper.pdf"
-    selected: y
+  # - title: "Online Myths on Opioid Use Disorder: A Comparison of Reddit and Large Language Model"
+  #   authors: "<b>Shravika Mittal</b>, Hayoung Jung, Mai ElSherief, Tanushree Mitra, Munmun De Choudhury"
+  #   venue: "Proceedings of the International AAAI Conference on Web and Social Media (ICWSM). 2025."
+  #   paper_pdf: "/assets/publications/2025_oud_myths/paper.pdf"
+  #   selected: y
 
-  - title: "MythTriage: Scalable Detection of Opioid Use Disorder Myths on a Video-Sharing Platform"
-    authors: "Hayoung Jung, <b>Shravika Mittal</b>, Ananya Aatreya, Navreet Kaur, Munmun De Choudhury, Tanushree Mitra"
-    venue: "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2025."
-    selected: y
+  # - title: "MythTriage: Scalable Detection of Opioid Use Disorder Myths on a Video-Sharing Platform"
+  #   authors: "Hayoung Jung, <b>Shravika Mittal</b>, Ananya Aatreya, Navreet Kaur, Munmun De Choudhury, Tanushree Mitra"
+  #   venue: "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2025."
+  #   selected: y
     
-  - title: "News Media and Violence Against Women: Understanding Framings of Stigma"
-    authors: "<b>Shravika Mittal</b>, Jasmine C. Foriest, Benjamin D. Horne, Munmun De Choudhury"
-    venue: "Proceedings of the International AAAI Conference on Web and Social Media (ICWSM). 2024."
-    paper_pdf: "/assets/publications/2024_vaw_framing/paper.pdf"
-    slides: "/assets/publications/2024_vaw_framing/ShravikaMittal_ICWSM24_Poster.pdf"
-    code: "https://github.com/mittalshravika/VAW-Framing"
-    selected: y
+  # - title: "News Media and Violence Against Women: Understanding Framings of Stigma"
+  #   authors: "<b>Shravika Mittal</b>, Jasmine C. Foriest, Benjamin D. Horne, Munmun De Choudhury"
+  #   venue: "Proceedings of the International AAAI Conference on Web and Social Media (ICWSM). 2024."
+  #   paper_pdf: "/assets/publications/2024_vaw_framing/paper.pdf"
+  #   slides: "/assets/publications/2024_vaw_framing/ShravikaMittal_ICWSM24_Poster.pdf"
+  #   code: "https://github.com/mittalshravika/VAW-Framing"
+  #   selected: y
 
-  - title: "Moral Framing of Mental Health Discourse and Its Relationship to Stigma: A Comparison of Social Media and News"
-    authors: "<b>Shravika Mittal</b>, Munmun De Choudhury"
-    venue: "Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI). 2023."
-    paper_pdf: "/assets/publications/2023_moral_framing/paper.pdf"
-    video: "https://dl.acm.org/doi/abs/10.1145/3544548.3580834#sec-supp"
-    slides: "/assets/publications/2023_moral_framing/slides.pdf"
-    selected: y
+  # - title: "Moral Framing of Mental Health Discourse and Its Relationship to Stigma: A Comparison of Social Media and News"
+  #   authors: "<b>Shravika Mittal</b>, Munmun De Choudhury"
+  #   venue: "Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI). 2023."
+  #   paper_pdf: "/assets/publications/2023_moral_framing/paper.pdf"
+  #   video: "https://dl.acm.org/doi/abs/10.1145/3544548.3580834#sec-supp"
+  #   slides: "/assets/publications/2023_moral_framing/slides.pdf"
+  #   selected: y
 
   # - title: "Evaluating Large Language Models: Stigma and Opioid Use Disorder"
   #   authors: "<b>Shravika Mittal</b>, Mai ElSherief, Tanushree Mitra, Munmun De Choudhury"
@@ -180,45 +87,52 @@ papers:
   #   slides: "/assets/publications/2024_CHI24_HEALWorkshop_OUD-LLM/CHI24-HEALWorkshop-Poster.pdf"
   #   selected: y
 
-  - title: "A Cross Community Comparison of Muting in Conversations of Gendered Violence on Reddit"
-    authors: "Jasmine C. Foriest<sup>‡</sup>, <b>Shravika Mittal</b><sup>‡</sup>, Kirsten Bray<sup>‡</sup>, Anh-Ton Tran<sup>‡</sup>, Munmun De Choudhury"
-    venue: "ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW). 2024."
-    selected: y
+  # - title: "A Cross Community Comparison of Muting in Conversations of Gendered Violence on Reddit"
+  #   authors: "Jasmine C. Foriest<sup>‡</sup>, <b>Shravika Mittal</b><sup>‡</sup>, Kirsten Bray<sup>‡</sup>, Anh-Ton Tran<sup>‡</sup>, Munmun De Choudhury"
+  #   venue: "ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW). 2024."
+  #   selected: y
 
-  - title: "News Media Framing of Suicide Circumstances and Gender: Mixed Methods Analysis"
-    authors: "Jasmine C. Foriest, <b>Shravika Mittal</b>, Eugenia Kim, Natalie Lennon, Andrea Carmichael, Steven A. Sumner, Munmun De Choudhury"
-    venue: "JMIR Mental Health. 2024."
-    paper_pdf: "https://mental.jmir.org/2024/1/e49879"
-    selected: y
+  # - title: "News Media Framing of Suicide Circumstances and Gender: Mixed Methods Analysis"
+  #   authors: "Jasmine C. Foriest, <b>Shravika Mittal</b>, Eugenia Kim, Natalie Lennon, Andrea Carmichael, Steven A. Sumner, Munmun De Choudhury"
+  #   venue: "JMIR Mental Health. 2024."
+  #   paper_pdf: "https://mental.jmir.org/2024/1/e49879"
+  #   selected: y
 
-  - title: "Research-Education Partnerships: A Co-Design Classroom for College Students with Intellectual and Developmental Disabilities."
-    authors: "Rachel Lowy, Khushi Magiawala, <b>Shravika Mittal</b>, Kaely Hall, Jessica Roberts, Jennifer Kim"
-    venue: "ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW). 2024."
-    selected: y
+  # - title: "Research-Education Partnerships: A Co-Design Classroom for College Students with Intellectual and Developmental Disabilities."
+  #   authors: "Rachel Lowy, Khushi Magiawala, <b>Shravika Mittal</b>, Kaely Hall, Jessica Roberts, Jennifer Kim"
+  #   venue: "ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW). 2024."
+  #   selected: y
 
-  - title: "Incomplete gamma integrals for deep cascade prediction using content, network, and exogenous signals"
-    authors: "Subhabrata Dutta, <b>Shravika Mittal</b>, Dipankar Das, Soumen Chakrabarti, Tanmoy Chakraborty"
-    venue: "IEEE Transactions on Knowledge and Data Engineering. 2022."
-    paper_pdf: "/assets/publications/2022_gamma_cas/paper.pdf"
-    selected: y
+  # - title: "Incomplete gamma integrals for deep cascade prediction using content, network, and exogenous signals"
+  #   authors: "Subhabrata Dutta, <b>Shravika Mittal</b>, Dipankar Das, Soumen Chakrabarti, Tanmoy Chakraborty"
+  #   venue: "IEEE Transactions on Knowledge and Data Engineering. 2022."
+  #   paper_pdf: "/assets/publications/2022_gamma_cas/paper.pdf"
+  #   selected: y
 
-  - title: "Dynamics of node influence in network growth models"
-    authors: "<b>Shravika Mittal</b>, Tanmoy Chakraborty, Siddharth Pal"
-    venue: "Physica A: Statistical Mechanics and its Applications. 2022."
-    paper_pdf: "/assets/publications/2022_node_influence/paper.pdf"
-    code: "https://github.com/mittalshravika/Network-Growth-Models"
-    selected: y
+  # - title: "Dynamics of node influence in network growth models"
+  #   authors: "<b>Shravika Mittal</b>, Tanmoy Chakraborty, Siddharth Pal"
+  #   venue: "Physica A: Statistical Mechanics and its Applications. 2022."
+  #   paper_pdf: "/assets/publications/2022_node_influence/paper.pdf"
+  #   code: "https://github.com/mittalshravika/Network-Growth-Models"
+  #   selected: y
 
-  - title: "Hide and seek: outwitting community detection algorithms"
-    authors: "<b>Shravika Mittal</b>, Debarka Sengupta, Tanmoy Chakraborty"
-    venue: "IEEE Transactions on Computational Social Systems. 2021."
-    paper_pdf: "/assets/publications/2021_community_deception/paper.pdf"
-    code: "https://github.com/mittalshravika/HideAndSeek-NEURAL"
-    selected: y
+  # - title: "Hide and seek: outwitting community detection algorithms"
+  #   authors: "<b>Shravika Mittal</b>, Debarka Sengupta, Tanmoy Chakraborty"
+  #   venue: "IEEE Transactions on Computational Social Systems. 2021."
+  #   paper_pdf: "/assets/publications/2021_community_deception/paper.pdf"
+  #   code: "https://github.com/mittalshravika/HideAndSeek-NEURAL"
+  #   selected: y
 
-  - title: "Did You “Read” the Next Episode? Using Textual Cues for Predicting Podcast Popularity"
-    authors: "Brihi Joshi<sup>‡</sup>, <b>Shravika Mittal</b><sup>‡</sup>, Aditya Chetan<sup>‡</sup>"
-    venue: "Proceedings of the 1st Workshop on NLP for Music and Audio (NLP4MusA). 2020."
+  # - title: "Did You “Read” the Next Episode? Using Textual Cues for Predicting Podcast Popularity"
+  #   authors: "Brihi Joshi<sup>‡</sup>, <b>Shravika Mittal</b><sup>‡</sup>, Aditya Chetan<sup>‡</sup>"
+  #   venue: "Proceedings of the 1st Workshop on NLP for Music and Audio (NLP4MusA). 2020."
+  #   paper_pdf: "/assets/publications/2020_podcast_popularity/paper.pdf"
+  #   code: "https://github.com/brihijoshi/podpop-nlp4musa-2020"
+  #   selected: y
+
+  - title: "Country-in-the-Middle: Measuring Paths between People and their Governments"
+    authors: "Alisha Ukani, Katherine Izhikevich, Shambhavi Mittal, Manan Patel, Samvrit Srinath, Kristy Ly, Alex C Snoeren"
+    # venue: "Proceedings of the 1st Workshop on NLP for Music and Audio (NLP4MusA). 2020."
     paper_pdf: "/assets/publications/2020_podcast_popularity/paper.pdf"
     code: "https://github.com/brihijoshi/podpop-nlp4musa-2020"
     selected: y
