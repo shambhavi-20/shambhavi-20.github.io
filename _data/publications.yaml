@@ -130,12 +130,12 @@ papers:
   #   code: "https://github.com/brihijoshi/podpop-nlp4musa-2020"
   #   selected: y
   - title: "Hide and SST: Detecting and Analyzing Server-Side Tracking Across the Web"
-    authors: "<b> Shambhavi Mittal</b>, Alisha Ukani, A.C. Snoeren"
+    authors: "<b> Shambhavi Mittal</b>, Alisha Ukani, Alex C. Snoeren"
     venue: "Privacy Enhancing Technologies Symposium. 2025."
     poster: "/assets/publications/2025_sst/Shambhavi_Mittal_Poster_PETS_2025.pdf"
     selected: y
   - title: "Country-in-the-Middle: Measuring Paths between People and their Governments"
-    authors: "Alisha Ukani, Katherine Izhikevich,<b> Shambhavi Mittal</b>, Manan Patel, Samvrit Srinath, Kristy Ly, Alex C Snoeren"
+    authors: "Alisha Ukani, Katherine Izhikevich,<b> Shambhavi Mittal</b>, Manan Patel, Samvrit Srinath, Kristy Ly, kc claffy, Alex C. Snoeren"
     # venue: "Proceedings of the 1st Workshop on NLP for Music and Audio (NLP4MusA). 2020."
     paper_pdf: "/assets/publications/2025_citm/paper.pdf"
     selected: y
